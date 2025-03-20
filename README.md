@@ -14,4 +14,4 @@ This repository provides a mapping between OpenTelemetry (OTel) components and t
 
 ## Purpose
 
-This translation table helps developers understand the relationship between OpenTelemetry components and their AWS Distro for OpenTelemetry counterparts. ADOT is a secure, production-ready, AWS-supported distribution of the OpenTelemetry project that includes both core and contrib components.
+This translation table helps developers understand the relationship between OTel components and their ADOT counterparts. ADOT is a secure, production-ready, AWS-supported distribution of the OpenTelemetry project that includes both core and contrib components.
