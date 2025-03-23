@@ -14,3 +14,4 @@ This repository provides a mapping between OpenTelemetry (OTel) components and t
 | Instrumentation (Java) | [opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) | [aws-otel-java-instrumentation](https://github.com/aws-observability/aws-otel-java-instrumentation)
 | Instrumentation (.NET) | [opentelemetry-dotnet-instrumentation](https://github.com/open-telemetry/opentelemetry-dotnet-instrumentation) | [aws-otel-dotnet-instrumentation](https://github.com/aws-observability/aws-otel-dotnet-instrumentation)
 | Instrumentation (Go) | [opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) | [aws-otel-go](https://github.com/aws-observability/aws-otel-go)
+| Instrumentation (Ruby) | [opentelemetry-ruby-contrib](https://github.com/open-telemetry/opentelemetry-ruby-contrib/) | [https://github.com/aws-observability/aws-otel-ruby](aws-otel-ruby)
