@@ -8,7 +8,7 @@ This repository provides a mapping between OpenTelemetry (OTel) components and t
 |---------------|----------------------|-------------------------------------|
 | Collector (Core) | [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | [aws-otel-collector](https://github.com/aws-observability/aws-otel-collector) |
 | Collector (Contrib) | [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) | [aws-otel-collector](https://github.com/aws-observability/aws-otel-collector) |
-| Lambda Extension | [opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) | [aws-otel-lambda](https://github.com/aws-observability/aws-otel-lambda) |
+| Lambda Layers | [opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) | [aws-otel-lambda](https://github.com/aws-observability/aws-otel-lambda) |
 | Instrumentation (Node.js) | [opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/metapackages/auto-instrumentations-node) | [aws-otel-js-instrumentation](https://github.com/aws-observability/aws-otel-js-instrumentation/tree/main/aws-distro-opentelemetry-node-autoinstrumentation) |
 | Instrumentation (Python) | [opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) | [aws-otel-python-instrumentation](https://github.com/aws-observability/aws-otel-python-instrumentation)
 | Instrumentation (Go) | [opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) | [aws-otel-go](https://github.com/aws-observability/aws-otel-go)
